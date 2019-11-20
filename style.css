@@ -1,0 +1,59 @@
+body{
+	background: url('2.jpg');
+	font-family: sans-serif;
+}
+
+.kalkulator{
+	width: 353px;
+	background: #3498DB;
+	margin: 100px auto;
+	padding: 10px 20px 50px 20px;
+	border-radius: 7px;
+	box-shadow: 0px 10px 20px 0px #8E44AD;
+}
+
+.bil{
+	background: url('21.png');
+	width: 300px;
+	margin: 5px;
+	border: none;
+	font-size: 16pt;
+	border-radius: 5px;
+	padding: 10px;	
+}
+
+.opt{
+	background: url('21.png');
+	font-size: 16pt;
+	border: none;
+	width: 300px;
+	margin: 5px;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.tombol{
+	background: url('33.png');
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	color: #000000;
+	font-size: 15pt;
+	border-bottom:4px solid #85C1E9;
+}
+
+.brand{
+	color: #eee;
+	font-size: 11pt;
+	float: right;
+	text-decoration: none;
+	margin: 12px;
+}
+
+.judul{
+	text-align: center;
+	color: #eee;
+	font-weight: normal;
+}
