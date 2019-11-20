@@ -33,7 +33,7 @@ body{
 }
 
 .tombol{
-	background: url('33.png');
+	background: #2E86C1;
 	border-top: none;
 	border-right: none;
 	border-left: none;
@@ -41,7 +41,7 @@ body{
 	padding: 10px 20px;
 	color: #000000;
 	font-size: 15pt;
-	border-bottom:4px solid #85C1E9;
+	border-bottom:4px solid #2E86C1;
 }
 
 .brand{
